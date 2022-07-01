@@ -1,2 +1,1 @@
-# ByteAnim-HTML
-The graphics counterpart of ByteBeat, implemented in HTML5
+Inspired by the ByteBeat music genre of algorithmic art
