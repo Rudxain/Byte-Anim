@@ -5,3 +5,6 @@ Generates frames from a stream of bytes returned by a math or bitwise expression
 
 # Other plans for this repo
 I may add stuff that doesn't belong to websites, like examples of Byte-Anim expressions made by me and the community, available in many langs such as JS, C, and Rust
+
+# See also
+[Demoscene](https://en.wikipedia.org/wiki/Demoscene)
